@@ -2,9 +2,7 @@
 
 """
 
-    DEV PATEL AU2040056
-    TIRTH PATEL AU2040020
-    KATHAN BHAVSAR AU2040170
+    Creator: Tirth Patel
 
     
 """

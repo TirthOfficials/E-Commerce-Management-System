@@ -1,0 +1,209 @@
+Electronics
+
+1.Television
+	
+	1) Samsung 32 inches Wondertainment Series HD Ready LED Smart TV
+		Price:	Rs. 16,000.00
+
+		Company:	Samsung
+		Display:	LED Panel | Mega Contrast | HD Picture Quality
+		Resolution:	HD (1366x768) | Refresh Rate: 60 hertz
+		Sound:		20 Watts Output | Dolby Digital Plus
+	
+	2) Mi TV 4X 50 Inches 4K Ultra HD Android LED TV
+		Price:	 Rs.35,000.00
+
+		Company:	Mi
+		Display:	LED Panel | 4K HDR
+		TV features : 	Built-In Wi-Fi | Android TV 9.0 | Google Assistant | Data Saver
+
+	3) LG 55 inches  4K Super UHD LED Smart TV
+		Price:	Rs. 1,25,000.00
+
+		Company:	LG
+		Display:	NanoCell Panel | 4K cinema HDR | Dolby vision | Nano cell colour display
+		TV Features:	ThinQ AI | Mobile connection overlay | α7 intelligent processor
+		Sound:		40 Watts Output | Dolby Atmos
+
+	4)Sony Bravia 43 inches Full HD Smart LED TV
+		Price:	Rs. 35,000.00
+
+		Company:	Sony
+		Display:	HDR | X-Reality Pro | Motionflow XR 100
+		TV Features:	Smart TV | Screen Mirroring | HDR Gaming
+		Sound:		20 Watts Output | Open Baffle Speaker
+
+	5) OnePlus Y Series 43 inches Full HD LED Smart Android TV
+		Price:	Rs. 25,000.00
+
+		Company:	OnePlus
+		Display:	LED Panel | Noise Reduction | Colour Space Mapping |Dynamic Contrast 
+		TV Features:	Android TV 9.0 | OnePlus Connect | Google Assistant | Play Store | Chromecast
+		Sound:		20 Watts Output | Dolby Audio
+
+2.Air Conditioner
+
+	6)LG 5 Star Inverter Split AC Copper
+		Price:	Rs. 41,000.00
+
+		Company:	LG
+		Energy Rating:	5 Star. Annual energy consumption: 835.50 units.
+		Capacity:	1.5 Tonnage Range. Suitable for medium sized rooms
+		
+	7)Voltas 3 Star Inverter Split AC (Copper)
+		Price:	Rs. 34,000.00
+
+		Company:	Voltas
+		Energy Rating:	3 Star Efficiency
+		Capacity:	1.5 ton Ton. Suitable for medium sized rooms
+
+	8)Whirlpool 3 Star 2020 Split AC with Copper Condenser
+		Price:	Rs. 25,500.00
+
+		Company:	Whirlpool
+		Energy Rating:	3 Star
+		
+	9)LG 3 Star Inverter Split AC (Copper, 2019 Model)
+		Price:	Rs. 50,000.00
+
+		Company:	LG
+		Energy Rating:	3 Star. Annual Energy Consumption: 1291.36 units.
+		Capacity:	2 Ton. Suitable for large sized rooms
+
+	10)Panasonic 5 Star Wi-Fi Twin Cool Inverter Split AC (Copper, PM 2.5 Filter, 2020 Model)
+		Price:	Rs. 41,000.00
+
+		Company:	Panasonic
+		Energy Rating:	5 Star, Annual Energy Consumption : 840.75 kWh
+		Capacity:	1.5 Ton - Suitable for medium sized rooms
+
+3.Refrigerator
+
+	11)Godrej 190 L 5 Star Inverter Direct-Cool Single Door Refrigerator
+		Price:	Rs. 16,000.00
+
+		Company:		Godrej
+		Capacity: 		190 litres suitable for a medium sized family
+		Energy rating: 		5 star, Annual energy consumption: 104 Kilowatt Hours
+
+	12)LG 420 L 3 Star Frost Free Double Door Refrigerator 
+		Price:	Rs. 41,000
+	
+		Company:		LG
+		Capacity 420 L:		Suitable for families with 3 to 4 members or bachelors
+		Energy Rating: 		3 Star
+
+	13)Haier 320 L 2 Star Inverter Frost-Free Double Door Refrigerator
+		Price:	Rs. 26,000.00
+
+		Company:		Haier
+		Capacity:		320 litres suitable for a medium sized family
+		Energy rating:		2 star, Annual energy consumption: 265 W
+
+	14)Samsung 198 L 5 Star Inverter Direct Cool Single Door Refrigerator
+		Price:	Rs. 17,500.00
+
+		Brand: 		Samsung
+		Capacity:	198 liters: suitable for families with 2 to 3 members and bachelors
+		Energy rating:	5 Star: high Energy Efficiency
+	
+	15)Godrej 260 L 3 Star Inverter Frost-Free Double Door Refrigerator
+		Price:	Rs. 23,000.00
+
+		Brand:		Godrej
+		Capacity:	260 litres suitable for a medium sized family
+		Energy rating:	3 star, Annual energy consumption: 202 Kilowatt Hours
+
+4.Laptops
+
+	16)Dell G3 3500 Gaming Laptop with 15.6 Inch
+		Price:	Rs. 73,000.00
+
+		Processor:	10th Gen Intel i5-10300H (up to 4.5 GHz)
+		Ram:		8GB, 2x4GB, DDR4,Dual Channel 2933MHz upgradable to 16GB
+		Storage:	256 GB M.2 PCIe NVMe Solid State Drive | 1TB 5400 RPM 2.5" Hard Disk Drive
+		Graphics:	NVIDIA GeForce GTX 1650 4GB 
+		
+
+	17)HP Pavilion x360 Touchscreen 2-in-1 FHD 14-inch Laptop 
+		Price:	Rs. 52,000.00
+
+		Processor:	10th Gen Intel Core i3-10110U (2.1 GHz base frequency, up to 4.1 GHz)
+		Ram:		8GB DDR4, expandable upto 16 GB
+		Storage:	512GB PCIe NVMe M.2 SSD
+		Graphics: 	Intel UHD Integrated Graphics
+
+	18)Lenovo ThinkPad E14 AMD Ryzen 5 4500U 14-inch Thin and Light Laptop
+		Price:	Rs. 50,000.00
+
+		Processor:	AMD Ryzen 5 4500U , 2.3Ghz base speed upto 4.0Ghz
+		Ram:		8GB RAM
+		Storage:	256GB SSD
+		Design:		180 Degree Hinge | Laptop weight 1.69kg
+
+	19)Apple MacBook Pro (16-inch Silver)
+		Price:	Rs. 2,40,000.00
+
+		Processor:	Ninth-gen 8-core Intel Core i9
+		Ram:		16GB
+		Storage:	1TB SSD
+		Graphics:	AMD Radeon Pro 5500M graphics | Intel UHD Graphics 630
+		
+	20)ASUS TUF Gaming FX705DT 17.3" FHD Laptop
+		Price:	Rs. 70,000.00
+
+		Processor:	AMD Ryzen 7-3750H , 2.3GHz Base speed (up to 4.0 GHz)
+		Ram:		8GB DDR4 2400MHz RAM upgradeable upto 32GB RAM
+		Storage:	PCIe NVMe 512GB M.2 SSD
+		Graphics:	NVIDIA GeForce GTX 1650 GDDR5 4GB VRAM Graphics
+		Design:		7.18mm Thin bezel | Laptop weight 2.70kg
+
+		
+
+5.Mobiles
+
+	21)Mi 10i 5G (Midnight Black)
+		Price:	Rs. 24,000.00
+	
+		Processor:	Octa-core Snapdragon 750G
+		Ram & Storage:	6GB RAM | 128GB storage expandable up to 512GB
+		Display:	16.9 centimeters (6.67-inch) FHD+ Full screen dot display with AdaptiveSync 120Hz
+		Battery:	4820 mAh large battery with Type-C connectivity
+		Camera:		108 MP Quad Rear camera with Ultra-wide
+		
+	22)OnePlus Nord 5G (Blue Marble)
+		Price:	Rs. 30,000.00
+
+		Processor:	Qualcomm Snapdragon 765G 5G mobile octa core
+		Ram & Storage:	12GB RAM | 256GB internal memory
+		Display:		6.44-inch 90Hz fluid Amoled display with 2400 x 1080 pixels resolution | 408ppi
+		Battery:		4115mAH lithium-ion battery
+		Camera:		48MP+8MP+5MP+2MP quad rear camera 32MP+8MP front dual camera
+
+	23)OnePlus 8T 5G (Aquamarine Green)
+		Price:	Rs. 46,000.00
+
+		Processor:	2.86 GHz Qualcomm Snapdragon 865 Octa-core
+		Ram & Storage:	12 GB RAM | 256 GB storage
+		Display:	6.55 inch 120 Hz Fluid AMOLED Display with 2400 X 1080 Pixels resolution, 402 PPI
+		Battery:	4500 mAH Lithium-ion battery
+		Camera:		Rear Quad Camera with 48 MP , 16 MP , 5 MP and 2 MP  |16 MP Front Camera 
+
+	24)Samsung Galaxy Note 20 Ultra 5G (Mystic Black)
+		Price:	Rs. 1,05,000.00
+
+		Processor:	Android v10.0 operating system with Exynos 990 octa core
+		Ram & Storage:	12GB RAM | 256GB internal memory expandable up to 1TB
+		Display:	17.45 cm (6.9-inch) WQHD+ dynamic Amoled display with 3088 x 1440 pixels resolution
+		Battery:	4500mAH lithium-ion battery
+		Camera:		108+12+12MP triple rear camera | 10MP front camera
+
+
+	25)OPPO F17 Pro (Matte Black)
+		Price:	Rs. 21,500.00
+
+		Processor:	Android v10based operating system 2.2GHz MediaTek Helio P95 octa core
+		Ram & Storage:	8GB RAM | 128GB internal memory
+		Display:	16.34 cm(6.43 inch) dual punch-hole display with FHD+ view with 2400 x 1080 pixels
+		Battery:	4015mAH lithium-polymer massive battery 
+		Camera:		48MP + 8MP + 2MP + 2MP Quad camera | 16MP main + 2MP depth Front Camera

@@ -1,0 +1,203 @@
+Beauty and healthcare
+
+1. Skin care
+
+	1) Forest Essentials Nargis Velvet Silk Body Cream, 6.7 Fl Oz
+		Price:	 Rs.2,000.00
+
+		Item Form:	Cream
+		Brand:		Forest Essentials
+		Item Weight:	200 Grams
+
+	2) L'Occitane Cherry Blossom Hand Cream-30ml
+		Price:	Rs. 700.00
+
+		Item Form:	Cream
+		Brand:		L'OCCITANE
+		Target Gender:	Female
+		Item Weight:	0.03 Kilograms
+		Item Volume:	30 Millilitres
+
+	3) Tree Hut Shea Moisturizing Body Lotion Moroccan Rose, 255g
+		Price:	Rs. 600.00
+
+		Item Form:	Cream
+		Brand:		Tree Hut
+		Skin Type:	Dry
+		Item Weight:	0.56 Pounds
+		Item Volume:	255 Millilitres
+
+	4) Yves Rocher Energizing Body Lotion, Mango Coriander, 200ml
+		Price:	Rs. 500.00
+
+		Ingredients:	Mango, Coriander
+		Brand:		Yves Rocher
+		Item Weight:	200 Grams
+
+	5) Forest Essentials Night Cream, Kumkumadi Keram, 30g
+		Price:	Rs. 2,075.00
+
+		Ingredients:	Saffron, Olive, Sweet Almond
+		Item Form:	Cream
+		Brand:		Forest Essentials
+		Item Weight:	30 Grams
+
+2. Make-up
+
+	6) Maybelline New York Color Sensational Creamy Matte Lipstick
+		Price:	Rs. 500.00
+		
+		Brand:		Maybelline
+		Colour:		630 Flaming Fuchsia
+		Finish Type:	Matte
+		Item Form:	Stick
+		Item Weight:	3.9 Grams
+
+	7) Lakme Absolute Plump and Shine Lip Gloss, Beige Shine, 3g
+		Price:	Rs. 400.00
+
+		Brand:		LAKME
+		Colour:		Beige Shine
+		Finish Type:	Glossy	
+		Item Form:	Liquid
+
+	8) Maybelline New York Colossal Kajal, Black, 0.35g
+		Price:	Rs. 150.00
+
+		Brand:		Maybelline
+		Item Form:	Pencil
+		Colour:		Black
+		Finish Type:	Matte
+		Item Weight:	0.04 Kilograms
+
+	9) DeBelle Gel Nail Polish Victorian Beige (Beige Nail Polish), 8ml
+		Price:	Rs. 270.00
+
+		Item Form:	Liquid
+		Brand:		DeBelle
+		Colour:		Victorian Beige
+		Finish Type:	Glossy
+
+	10) Generic Foundation, Eyeshadow Makeup Brush Set, Pink (Set Of 10)
+		Price:	Rs. 250.00
+
+		Brand:		Generic
+		Colour:		Pink silver
+		Item Weight:	0.35 Pounds
+		Item Form:	Wand
+		Material:	Wood
+
+3. Health & Personal Care
+	
+	11) Vicks Vaporub - 50ml
+		Price:	Rs. 110.00
+
+		Brand:		Vicks
+		Item Form:	Ointment
+		Item Weight:	60 Grams
+
+	12) Skudgear Advanced Breathable Neoprene Ankle Support Compression Brace
+		Price:	Rs. 400.00
+
+		Size:		Free size
+		Brand:		Skudgear
+		Material:	Neoprene
+		Closure Type:	Hook and Loop
+
+	13) Dr. Morepen 09 Fully Automatic BP Monitor
+		Price:	Rs. 1,400.00
+
+		Brand:		DR. MOREPEN
+		Colour:		White
+		Power source:   Battery Powered
+		Item Weight:	490 Grams
+
+	14) Trexgenics Smartvision Advanced Eye Care Multivitamin
+		Price:	Rs. 900.00
+
+		Item Form:	Capsule
+		Brand:		Trexgenics
+		Feature:	Vegetarian
+		Container type:	Bottle
+
+	15) Mack'S Ear Care Ultra Soft Foam Earplugs, 50 Count
+		Price:	Rs. 1,700.00
+
+		Brand:		Mack's Ear Care
+		Item Weight:	0.25 Pounds
+		No. of Pieces:	100
+
+4. Hair care
+	
+	16) Dove Intense Repair Shampoo, 1L
+		Price:	Rs. 500.00
+		Brand:		Dove
+		Item Form:	Liquid, Cream
+		Item Weight:	1138 Grams
+
+	17) TRESemme Keratin Smooth Conditioner
+		Price:	Rs. 180.00
+
+		Brand:		TRESemme
+		Liquid Volume:	190 Millilitres
+		Item Form:	Liquid
+		Item Weight:	190 Grams
+
+	18) Nihar Shanti Amla and Badam Hair Oil
+		Price:	Rs. 140.00
+
+		Brand:		NIHAR
+		Item Form:	Oil
+		Hair Type:	Multicultural
+
+	19) L'Oreal Paris Excellence Creme Hair Color, Black
+		Price:	Rs. 530.00
+
+		Colour:		Shade 1, Black
+		Brand:		Unknown
+		Item Form:	Cream
+
+	20) BEARDO Hair Wax, Strong Hold
+		Price:	Rs. 200.00
+
+		Scent:		STRONG HOLD Hair Wax
+		Brand:		BEARDO
+		Item Form:	Gel
+		Hair Type:	All
+
+5. Fragrance
+
+	21) Axe Signature Dark Temptation
+		Price:	Rs. 180.00
+
+		Brand:		AXE
+		Item Form:	Spray
+		Item Weight:	137 Grams
+
+	22) Engage M1 Perfume Spray For Men
+		Price:	Rs. 160.00
+
+		Brand:		Engage
+		Item Form:	Spray
+		Item Weight:	130 Grams
+
+	23) Fogg Fresh Deodorant Combo for Men
+		Price:	Rs. 450.00
+
+		Brand:		Fogg
+		Item Form:	Spray
+		Item Volume:	240 Millilitres
+	
+	24) NIVEA Men Deodorant, Fresh Active Original, 150ml
+		Price:	Rs. 145.00
+
+		Brand:		Nivea
+		Item Form:	Spray
+		Item Volume:	150 Millilitres
+
+	25) Envy Men Perfume, 30ml
+		Price:	Rs. 120.00
+
+		Brand:		Envy
+		Item Form:	Spray
+		Item Weight:	0.09 Pounds

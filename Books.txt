@@ -1,0 +1,219 @@
+Books
+
+1.Action and Adventure:
+
+                1) Treasure Island
+
+                        Price:         Rs. 130
+ 
+                        Writer:        Robert Louis Stevenson
+
+                        Publisher:     Fingerprint! Publishing
+
+                        Language:      English
+
+                2) Around the World in 80 Days
+
+                        Price:         Rs.120
+
+                        Writer:        Jules Verne
+
+                        Publisher:     Fingerprint! Publishing
+
+                        Language:      English
+
+                3) 2000 LEAGUES UNDER THE SEA 
+
+                       Price:          Rs.190
+
+                       Writer:         Jules Verne 
+                                       
+                       Publisher:      Fingerprint! Publishing
+
+                       Language:       English
+
+                4) The Adventures of Tom Sawyer
+
+                      Price:           Rs.140 
+
+                      Writer:          Mark Twain 
+                                      
+                      Publisher:       Om Books International
+
+                      Language:        English
+
+2.Classic: 
+    
+                5) The Great Gatsby
+
+                       Price:          Rs.190
+
+                       Writer:         F. Scott Fitzgerald
+
+                       Publisher:      Charles Scribner's Sons
+
+                       Language:       English
+                   
+               6) The Catcher in the Rye
+
+                      Price:           Rs.220
+
+                      Writer:          J. D. Salinger
+
+                      Publisher:       Little, Brown and Company
+
+                      Language:        English
+
+               7)  Chanakya Neeti
+
+                     Price:            Rs.218
+
+                     Writer:           Radhakrishnan Pillai
+
+                     Publisher:        Jaico Publishing House
+
+                     Language:         English
+
+              8)   Oliver Twist
+
+                     Price:            Rs.160
+
+                     Writer:           Charles Dickens
+
+                     Publisher:        Richerd Bentley
+
+                     Language:         English
+
+3.Comic Book
+
+              9)  THE INVINCIBLE IRON MAN: Armour Wars 
+
+                   Price:              Rs.1000
+
+                   Writer:             David Michelinie and Bob Lyton
+
+                   Art:                Mark D. Bright and Barry Windsor-Smith
+
+                   Publisher:          Marvel Comics
+
+                   Language:           English
+
+             10) Batman: The Killing Joke
+
+                   Price:              Rs.850 
+
+                   Writer:             Alan Moore
+
+                   Art:                Brian Bolland
+
+                   Publisher:          DC Comics
+
+                   Language:           English
+
+             11) X-MEN: Days of Future Past
+
+                    Price:             Rs.1500
+
+                    Writer:            Chris Claremont and John Byrne
+
+                    Art:               Terry Austin
+
+                    Publisher:         Marvel Comics
+
+                    Language:          English
+
+             12)  Ghost World
+
+                     Price:            Rs.450
+
+                     Writer:           Daniel Clowes
+
+                     Art:              Daniel Clowes
+
+                     Publisher:        Jonathan Cape
+
+                     Language:         English
+
+4.Mystery:
+
+            13)  A Time for Mercy
+
+                     Price:            Rs.630
+
+                     Writer:           John Grisham
+
+                     Publisher:        Hodder and Stoughton
+
+                     Language:         English
+
+           14) The Murder at the Vicarage
+
+                     Price:            Rs.205
+
+                     Writer:           Joan Hickson
+
+                     Publisher:        HarperCollins Publishers Ltd
+
+                     Language:         English 
+
+           15) The Searcher
+
+                     Price:            Rs.1200
+
+                     Writer:           Tana French
+
+                     Publisher:        Viking
+
+                     Language:         English        
+   
+          16) The Girl on the Train      
+
+                      Price:           Rs.200
+
+                      Writer:          Paula Hawkins
+
+                      Publisher:       Random House
+
+                      Language:        English        
+    
+5.Fantasy: 
+
+         17) The Name of the Wind
+
+                      Price:           Rs.400
+
+                      Writer:          Patrick Rothfuss
+
+                      Publisher:       Orion
+
+                      Language:        English 
+
+        18) Assassin's Apprentice
+
+                      Price:           Rs.400
+
+                      Writer:          Robin Hobb
+
+                      Publisher:       Spectra
+
+                      Language:        English 
+
+        19) The Magicians
+
+                      Price:           Rs.600
+
+                      Writer:          Lev Grossman
+
+                      Publisher:       Penguin Books
+
+                      Language:        English 
+
+       20) The Dark Tower: The Gunslinger
+
+                      Price:           Rs.1000
+
+                      Writer:          Stephen King
+
+                      Publisher:       Pocket Books
+
+                      Language:        English

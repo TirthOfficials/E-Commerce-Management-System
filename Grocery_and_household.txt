@@ -1,0 +1,227 @@
+Grocery and household supplies
+
+
+1. Bevarages:
+	1) Tetley Green Tea Bags - Ginger, Mint & Lemon, 100 Bags
+		Price:	Rs. 420.00
+
+		Form:		Tea Bags
+		Brand:		Tetley
+		Tea Variety:	Green
+		Flavour:	Ginger Mint & Lemon
+		Weight:		349 Grams
+		Units:		100 count
+
+	2) Lipton Honey Lemon Green Tea Bags, 100 Pc
+		Price:	Rs. 400.00
+	
+		Form:		Tea Bags
+		Brand:		Lipton
+		Tea Variety:	Green
+		Flavour:	Lemon
+		Weight:		160 Grams
+		Units:		100 count
+
+	3) Wagh Bakri Premium Leaf Tea Poly Pack, 1kg
+		Price:	Rs. 400.00
+
+		Form:		Loose Leaves
+		Brand:		Wagh Bakri
+		Weight:		1000 Grams
+		Units:		1000.0 gram
+
+	4) Tata Tea Gold, 1kg
+		Price:	Rs. 550.00
+
+		Form:		Loose Leaves
+		Brand:		Tata
+		Tea Variety:	Assam
+		Weight:		1000 Grams
+		Units:		1000.0 gram
+
+	5) Nescafe Classic Coffee, 100g Dawn Jar
+		Price:	Rs. 255.00
+
+		Brand:		Nescafé
+		Form:		Ground
+		Flavour:	Original
+		Specialty:	Organic
+		Container type:	Jar
+		Weight:		100 Grams
+		Ingredients:	Coffee beans
+		Units:		100.0 gram
+
+
+2. Cooking & Baking Supplies
+
+	6) Zandu Pure Honey, 500g
+		Price:	Rs. 175.00 
+
+		Brand:		Zandu
+		Weight:		0.5 Kilograms
+		- 100% guaranteed purity
+		  0% added sugar, no added C3/ C4/Rice/ Corn/ Cane Sugar
+
+	7) Fortune Sunlite Refined Sunflower Oil, 1L
+		Price:	Rs. 145.00 
+
+		Brand:			FORTUNE
+		Weight:			1000 Grams
+		Plant:	                Sunflower
+		Volume:			1 Litres
+
+	8) Fortune Kachi Ghani Pure Mustard Oil, 1L (Pet Bottle)
+		Price:	Rs. 160.00
+
+		Brand:			FORTUNE
+		Weight:			1000 Grams
+		Plant:	  		Mustard
+		Volume:			1 Litres
+
+	9) Dhampure White Crystal Sugar, 5kg
+		Price:	Rs. 220.00
+
+		- Double refined sulpherless pure crystals
+		- Free from impurities
+		- European union standards
+		- Non acidic
+		- Untouched by hands
+		- Country of Origin: India
+
+	10) Tata Sampann Turmeric Powder Masala, 200g
+		Price:	Rs. 55.00
+
+		Brand:		Tata
+		Item Weight:	200 Grams
+		Item Form:	Powders
+
+		- Mesmerizing taste
+		- Improves brain function
+		- Helps battle depression
+	
+
+3. Breakfast Essentials
+
+	11) Saffola Masala Oats, Classic Masala, 500g
+		Price:	Rs. 170.00
+
+		- Classic Masala Oats - Now with wholegrain oats, carrots, onions and green peas. Delicious and comforting, 			  	    		  just like the taste of home-cooked food.
+
+		- Ready in 3 minutes, an instant oatmeal cereal for Breakfast or evening snacks.
+
+		- Oats are high in fibre and protein, which keep you fuller for longer, control your hunger pangs and thereby help you manage weight.			                   	   
+                                                                 
+	12) Quaker Oats, 2kg
+		Price:	Rs. 260.00
+
+		- Get great savings and a great taste with Quaker oats mega saver pack and get 500g free with 1.5kg pack of Quaker oats.		   		   
+		- Quaker oats is made from 100 percent wholegrain oats, which is a natural source of carbohydrates, protein and dietary fibre.		   		   
+		- Garnish your wholesome bowl of oats with your favourite fruits and nuts to make it more delicious.
+		- Helps reduce the risk of high blood pressure and cholesterol.
+		- Helps maintain weight.
+
+	13) Kellogg's Corn Flakes Real Almond and Honey, 1 kg
+		Price:	Rs. 520.00
+
+		- Kellogg's Corn Flakes with Real Almond & Honey is a tasty and nourishing breakfast cereal at its very best.
+		- The goodness of almond inclusions with real honey can be tasted in every bite.
+		- Country of Origin: India
+
+	14) Kellogg's Chocos, High in Protein, B Vitamins, Calcium And Iron, 1.2kg Pack
+		Price:	Rs. 460.00
+
+		- Bring a little magic to your Kid's day with the delicious taste of Kellogg’s Chocos.
+		- Kellogg's Chocos is a Solid & Nourishing food for your kids. One serve of 30g of Kellogg's Chocos has the 			   	  		  	  protein & fiber of 1 Wheat Roti of 30g. It is enriched with 10 essential vitamins and minerals.
+		- Kellogg's Chocos is high in calcium, low in fat and naturally cholesterol-free.
+
+	15) Nestle NesPlus Breakfast Cereal - Crunchy Flakes with Corn & Oats, 475g Carton
+		Price:	Rs. 160.00 
+
+		- NesPlus Crunchy Flakes is made with wholegrains of Corn and Oats to add the perfect crunch to your breakfast				   	   
+		- Calcium and Vitamin D combination helps you maintain bone health
+		- Source of Iron, Folic acid, B-Vitamins and Fibre
+		- NesPlus Crunchy Flakes contains no added colours and flavours. Maximum Shelf Life : 11 Months
+
+4. Cookware & dining
+
+	16) Milton Executive Lunch Box Soft Insulated Tiffin Box (2 SS Container,1 Microwave Safe Container),Green
+		Price:	Rs. 300.00
+
+		Material:	Plastic
+		Colour:		Green
+		Shape:		Oval, Round
+		Item Weight:	0.95 Pounds
+
+	17) Larah by Borosil Green Leaves Silk Series Opalware Dinner Set, 35 Pieces, White
+		Price:	Rs. 1,800.00 
+
+		- Made in India with automated advance technology as per highest standards
+		- 100 percent vegetarian - bone ash free material. Clean with a soft sponge
+		- Thermal resistant - no cracks on heating food in microwave directly from refrigerator
+		- Extra strong - fully tempered toughened glass 
+
+	18) Milton Thermosteel Carafe Flask Tea/ Coffee Pot Tea/ Coffee Pot, 1000 ml, Silver
+		Price:	Rs. 1,000.00 
+
+		Colour:		Plain Steel
+		Brand:		MILTON
+		Capacity:	1 litres
+		Material:	Stainless Steel
+		Item Weight:	400 Grams
+
+	19) Milton Astir 750 Thermosteel Hot and Cold Water Bottle, 710 ml, Blue
+		Price:	Rs. 800.00
+
+		- It narrow mouth makes it easy to drink without spilling, Wherever you go whether it is work, travelling, gym this Thermosteel bottle is 		          easy to carry
+		- Color: Blue, Material: Stainless Steel
+		- Package Contents: 1 - Piece Astir Water Bottle (710 ml)
+
+	20) Borosil - Carafe Flame Proof Glass Kettle With Stainer, 650 ml
+		Price:	Rs. 500.00
+
+		Colour:		Transparent
+		Brand:		Borosil
+		Capacity:	650 Milliliters
+		Material:	Glass
+		Item Weight:	300 Grams
+
+5. Home Decor
+
+	21) Alnico Decor Metal Flower Vase (26 Inches, Black)
+		Price:	Rs. 1,900.00
+
+		Colour:		Black
+		Brand:		Alnico Decor
+		Material:	Metal
+		Item Shape:	Round
+
+	22) AADIT CRREATION Metallic Flower Vase (Length 12 cm; Width -12 cm; Height - 22 cm, Golden)
+
+		Price:	Rs. 600.00
+
+		Colour:		Golden Flower Vase
+		Brand:		AADIT CRREATION
+		Material:	Metal
+		Item Shape:	Conical
+
+	23) Fabzone Marble Dust Radha Krishna Idol | Radhey Shyam , White, 19 Inches, 1 Piece
+		Price:	Rs. 9,500.00
+		
+		Brand:		FABZONE
+		Material:	Stone
+		Weight:		5000 Grams 
+
+	24) eCraftIndia White Metal Cow and Calf
+		Price:	Rs. 240.00
+
+		- Package Content - One piece statue of Cow and Calf
+		- Product Size (LxWxH) - 5.5"x4"x4"
+		- Material - White Metal ; Color - Silver and Red
+		- Care Instruction - Don't wash, use dry cotton cloth to remove dirt.
+	
+	25) JaipurCrafts Brass Gramophone Showpiece, 17 CM, Gold, 1 Piece
+		Price:	Rs. 370.00
+
+		Brand:			JaipurCrafts
+		Material:		Metal
+		Item Dimensions LxWxH:	8 x 8 x 16 Centimeters

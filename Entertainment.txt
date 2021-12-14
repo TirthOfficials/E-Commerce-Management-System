@@ -1,0 +1,134 @@
+Entertainment
+1.Movies:
+              1) TENET
+                      Price:          Rs.1800
+                      Director:       Christopher Nolan  
+                      Writer:         Christopher Nolan
+                      Quality:        Blu-ray
+                      Language:       English, Hindi, Tamil.
+              2) Avengers Endgame
+                     Price:           Rs.3700
+                     Director:        Joe Russo and Anthony Russo
+                     Writer:          Christopher Markus and Stephen McFeely
+                     Quality:         Blu-ray
+                     Language:        English, Hindi, Tamil, Telugu
+              3) 3-idiots
+                     Price:           Rs.800
+                     Director:        Rajkumar Hirani
+                     Writer:          Abhijat Joshi, Vidhu Vinod Chopra, Chetan Bhagat
+                     Quality:         Blu-ray
+                     Language:        Hindi
+             4) Interstellar
+                     Price:           Rs.3000
+                     Director:        Christopher Nolan                     
+                     Writer:          Christopher Nolan and Jonathan Nolan
+                     Quality:         Blu-ray
+                     Language:        English
+            5) The Matrix    
+                     Price:           Rs.1000
+                     Director:        Lana Wachowski and Lilly Wachowski                   
+                     Writer:          Lana Wachowski and Lilly Wachowski
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+           6) Joker
+                     Price:           Rs.1700
+                     Director:        Todd Phillips                   
+                     Writer:          Todd Phillips and Scott Silver
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+          7) Titanic
+                     Price:           Rs.470
+                     Director:        James Cameron                  
+                     Writer:          James Cameron
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+           8) Iron Man Trilogy
+                     Price:           Rs.2760
+                     Director:        Jon Favreau                 
+                     Writer:          Stan Lee, Larry Lieber, Jack Kirby and Don Heck
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+  
+         9) Captain America Trilogy
+                     Price:           Rs.2460
+                     Director:        Joe Johnston                 
+                     Writer:          Stan Lee, Larry Lieber, Jack Kirby and Don Heck
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+       10) Thor Trilogy
+                     Price:           Rs.2700
+                     Director:        Taika Waititi, Kenneth Branagh                 
+                     Writer:          Stan Lee, Larry Lieber, Jack Kirby and Don Heck
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+       11) Doctor Strange
+                     Price:           Rs.1500
+                     Director:        Scott Derrickson                 
+                     Writer:          Stan Lee, Scott Derrickson, Jon Spaihts and C. Robert Cargill
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+       12) Justice League                    
+	             Price:           Rs.460
+                     Director:        Taika Waititi, Kenneth Branagh                 
+                     Writer:          Stan Lee, Larry Lieber, Jack Kirby and Don Heck
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+        13) Sutter Island
+                     Price:           Rs.500
+                     Director:        Martin Scorsese                 
+                     Writer:          Dennis Lehane
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         14) The Dark Knight
+                     Price:           Rs.2000
+                     Director:        Christopher Nolan                
+                     Writer:          Christopher Nolan, David S.Goyer, Jonathan Nolan
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         15) Avatar
+                     Price:           Rs.1200
+                     Director:        James Cameron                
+                     Writer:          James Cameron
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         16) Deadpool
+                     Price:           Rs.700
+                     Director:        Tim Miller            
+                     Writer:          Rhett Reese, Paul Wernick
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         17) Mission Impossible
+                     Price:           Rs.4500
+                     Director:        Brad Bird, Christopher MacQuarrie              
+                     Writer:          J. J. Abrams, John Woo, Brad Bird
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         18) Harry Potter 
+                     Price:           Rs.6500
+                     Director:        David Yates, Alfonso Cuaron, Mike Neweell, Chris Columbus                
+                     Writer:          J. K. Rowling
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         19) Furious 7
+                     Price:           Rs.500
+                     Director:        James Wan
+                     Writer:          Chris Morgan, Gary Scott Thompson
+                     Quality:         Blu-ray
+                     Language:        English, Hindi
+
+         20) Jurassic Park
+                     Price:           Rs.1200
+                     Director:        Colin Trevorro, Steven Spielberg, J.A.Bayona, Joe Johnston
+                     Writer:          Michael Crichton
+                     Quality:         Blu-ray
+                     Language:        English, Hindi

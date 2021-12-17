@@ -2,7 +2,9 @@
 
 """
 
-    Creator: Tirth Patel
+    Creators: Tirth Patel
+              Dev Patel
+              Kathan Bhavsar
 
     
 """
